@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:latest
 ENV HUGO_VERSION 0.40.3
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
